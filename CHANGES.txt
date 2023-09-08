@@ -1,1 +1,19 @@
 TODO: List here all the changes you made to given template to adapt it to your needs
+
+1) Changed styles of project images - Height and Width set to auto 
+    Because) The class img-fluid was not working properly and images were being distorted.
+2) Changed 'Services' to my skills and interests
+    Because) It sounds more personable.
+3) Removed 'Learn More' buttons in services and added collapse buttons with 'more' section.
+    Because) Allows user to see more details without losing their place
+4) Removed 'Trusted By' section
+    Because) It doesn't fit with a personal portfolio
+5) Added 'Awards and Acheivements section
+    Because) It helps build confidence in the person by letting user know more qualifications
+6) Adjusted the font weight of Skills & Interests paragraph.
+    Because) Felt to light and was a little difficult to read.
+7) Adjusted the size of the font for Services Descriptions
+    Because) Appeared to be a little small for mobile screen legibility.
+8) Altered Get Started form
+    Because) It didn't really fit with a personal portfolio format
+9) 
